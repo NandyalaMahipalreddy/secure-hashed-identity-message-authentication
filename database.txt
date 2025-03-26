@@ -1,0 +1,17 @@
+create database shima;
+use shima;
+
+create table register(username varchar(30) primary key,
+password varchar(30),
+contact varchar(12),
+email varchar(30),
+address varchar(40));
+
+create table outsource(username varchar(50),
+filename varchar(50),
+file_key varchar(40),
+upload_date varchar(30),
+shima_code varchar(80),
+hmac_code varchar(250));
+
+

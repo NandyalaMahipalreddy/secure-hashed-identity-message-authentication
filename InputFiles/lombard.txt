@@ -1,0 +1,229 @@
+
+https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo
+https://www.kaggle.com/datasets/dataclusterlabs/bicycle-image-dataset-vehicle-dataset
+
+
+https://ieee-dataport.s3.amazonaws.com/competition/1253487/13083/Videos/2024-06-01/18th_Crs_BsStp_JN_FIX_1_time_2024-06-01T07%3A30%3A02_000.mp4?AWSAccessKeyId=AKIAJOHYI4KJCE6Q7MIQ&Expires=1723815064&Signature=AnzKayGFtWOEaEn4CAefQkh5uC8%3D
+
+https://learnopencv.com/text-summarization-using-t5/
+
+
+
+/content/drive/MyDrive/TrafficSign/Dataset
+
+
+17 No Entry
+14 Stop
+39 keep left
+38 keep right
+9 No passing
+31 wild animal crossing
+15 No vehicles
+28 children crossing
+36 go straight or right
+27 pedestrains
+37 go straight or left
+
+installing python 3.7 in colab
+
+!sudo apt-get update -y
+!sudo apt-get install python3.7
+!sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 1
+!sudo update-alternatives --config python3
+!sudo apt install python3-pip
+!sudo apt-get install python3.7-distutils 
+
+!pip install numpy==1.20.3
+!pip install pandas==0.25.3
+!pip install matplotlib==3.1.1
+!pip install keras==2.3.1
+!pip install tensorflow==1.14.0
+!pip install h5py==2.10.0
+!pip install protobuf==3.16.0
+pip install scikeras[tensorflow]
+!pip install opencv-python==4.1.1.26
+!pip install opencv-contrib-python==4.3.0.36
+
+
+https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo
+https://www.kaggle.com/datasets/dataclusterlabs/bicycle-image-dataset-vehicle-dataset
+
+
+https://ieee-dataport.s3.amazonaws.com/competition/1253487/13083/Videos/2024-06-01/18th_Crs_BsStp_JN_FIX_1_time_2024-06-01T07%3A30%3A02_000.mp4?AWSAccessKeyId=AKIAJOHYI4KJCE6Q7MIQ&Expires=1723815064&Signature=AnzKayGFtWOEaEn4CAefQkh5uC8%3D
+
+https://learnopencv.com/text-summarization-using-t5/
+
+
+
+/content/drive/MyDrive/TrafficSign/Dataset
+
+
+17 No Entry
+14 Stop
+39 keep left
+38 keep right
+9 No passing
+31 wild animal crossing
+15 No vehicles
+28 children crossing
+36 go straight or right
+27 pedestrains
+37 go straight or left
+
+installing python 3.7 in colab
+
+!sudo apt-get update -y
+!sudo apt-get install python3.7
+!sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 1
+!sudo update-alternatives --config python3
+!sudo apt install python3-pip
+!sudo apt-get install python3.7-distutils 
+
+!pip install numpy==1.20.3
+!pip install pandas==0.25.3
+!pip install matplotlib==3.1.1
+!pip install keras==2.3.1
+!pip install tensorflow==1.14.0
+!pip install h5py==2.10.0
+!pip install protobuf==3.16.0
+pip install scikeras[tensorflow]
+!pip install opencv-python==4.1.1.26
+!pip install opencv-contrib-python==4.3.0.36
+
+
+https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo
+https://www.kaggle.com/datasets/dataclusterlabs/bicycle-image-dataset-vehicle-dataset
+
+
+https://ieee-dataport.s3.amazonaws.com/competition/1253487/13083/Videos/2024-06-01/18th_Crs_BsStp_JN_FIX_1_time_2024-06-01T07%3A30%3A02_000.mp4?AWSAccessKeyId=AKIAJOHYI4KJCE6Q7MIQ&Expires=1723815064&Signature=AnzKayGFtWOEaEn4CAefQkh5uC8%3D
+
+https://learnopencv.com/text-summarization-using-t5/
+
+
+
+/content/drive/MyDrive/TrafficSign/Dataset
+
+
+17 No Entry
+14 Stop
+39 keep left
+38 keep right
+9 No passing
+31 wild animal crossing
+15 No vehicles
+28 children crossing
+36 go straight or right
+27 pedestrains
+37 go straight or left
+
+installing python 3.7 in colab
+
+!sudo apt-get update -y
+!sudo apt-get install python3.7
+!sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 1
+!sudo update-alternatives --config python3
+!sudo apt install python3-pip
+!sudo apt-get install python3.7-distutils 
+
+!pip install numpy==1.20.3
+!pip install pandas==0.25.3
+!pip install matplotlib==3.1.1
+!pip install keras==2.3.1
+!pip install tensorflow==1.14.0
+!pip install h5py==2.10.0
+!pip install protobuf==3.16.0
+pip install scikeras[tensorflow]
+!pip install opencv-python==4.1.1.26
+!pip install opencv-contrib-python==4.3.0.36
+
+
+https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo
+https://www.kaggle.com/datasets/dataclusterlabs/bicycle-image-dataset-vehicle-dataset
+
+
+https://ieee-dataport.s3.amazonaws.com/competition/1253487/13083/Videos/2024-06-01/18th_Crs_BsStp_JN_FIX_1_time_2024-06-01T07%3A30%3A02_000.mp4?AWSAccessKeyId=AKIAJOHYI4KJCE6Q7MIQ&Expires=1723815064&Signature=AnzKayGFtWOEaEn4CAefQkh5uC8%3D
+
+https://learnopencv.com/text-summarization-using-t5/
+
+
+
+/content/drive/MyDrive/TrafficSign/Dataset
+
+
+17 No Entry
+14 Stop
+39 keep left
+38 keep right
+9 No passing
+31 wild animal crossing
+15 No vehicles
+28 children crossing
+36 go straight or right
+27 pedestrains
+37 go straight or left
+
+installing python 3.7 in colab
+
+!sudo apt-get update -y
+!sudo apt-get install python3.7
+!sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 1
+!sudo update-alternatives --config python3
+!sudo apt install python3-pip
+!sudo apt-get install python3.7-distutils 
+
+!pip install numpy==1.20.3
+!pip install pandas==0.25.3
+!pip install matplotlib==3.1.1
+!pip install keras==2.3.1
+!pip install tensorflow==1.14.0
+!pip install h5py==2.10.0
+!pip install protobuf==3.16.0
+pip install scikeras[tensorflow]
+!pip install opencv-python==4.1.1.26
+!pip install opencv-contrib-python==4.3.0.36
+
+
+https://www.kaggle.com/datasets/nadinpethiyagoda/vehicle-dataset-for-yolo
+https://www.kaggle.com/datasets/dataclusterlabs/bicycle-image-dataset-vehicle-dataset
+
+
+https://ieee-dataport.s3.amazonaws.com/competition/1253487/13083/Videos/2024-06-01/18th_Crs_BsStp_JN_FIX_1_time_2024-06-01T07%3A30%3A02_000.mp4?AWSAccessKeyId=AKIAJOHYI4KJCE6Q7MIQ&Expires=1723815064&Signature=AnzKayGFtWOEaEn4CAefQkh5uC8%3D
+
+https://learnopencv.com/text-summarization-using-t5/
+
+
+
+/content/drive/MyDrive/TrafficSign/Dataset
+
+
+17 No Entry
+14 Stop
+39 keep left
+38 keep right
+9 No passing
+31 wild animal crossing
+15 No vehicles
+28 children crossing
+36 go straight or right
+27 pedestrains
+37 go straight or left
+
+installing python 3.7 in colab
+
+!sudo apt-get update -y
+!sudo apt-get install python3.7
+!sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 1
+!sudo update-alternatives --config python3
+!sudo apt install python3-pip
+!sudo apt-get install python3.7-distutils 
+
+!pip install numpy==1.20.3
+!pip install pandas==0.25.3
+!pip install matplotlib==3.1.1
+!pip install keras==2.3.1
+!pip install tensorflow==1.14.0
+!pip install h5py==2.10.0
+!pip install protobuf==3.16.0
+pip install scikeras[tensorflow]
+!pip install opencv-python==4.1.1.26
+!pip install opencv-contrib-python==4.3.0.36
